@@ -5,7 +5,7 @@ No mundo dos negócios imobiliários, é frequente a necessidade de analise de d
 ### Objetivo 
 Ao fim desse caderno você será capaz de definir faixas de risco (quem consegue ou não um empréstimo imobiliário) com base em um dado conjunto de dados dos perfis solicitantes.
 
-<font size=5 color='#333'>**Tempo Estimado:**</font> 90 minutos (uma partida de futebol</br>
+<font size=5 color='#333'>**Tempo Estimado:**</font> 90 minutos (uma partida de futebol)</br>
 
 ### O Conjunto de dados
 O conjunto de dados analisado constará de pouco mais de 600 entradas. O dicionário dos rotulos pode ser checado abaixo:
