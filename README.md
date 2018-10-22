@@ -26,7 +26,7 @@ O conjunto de dados analisado constará de pouco mais de 600 entradas. O dicion�
 
 
 ### Autores
-* André Moreira - Revisão, apoio e brownies - [andreLumor](https://github.com/andreLumor)
+* André Moreira - Revisão, Apoio e brownies - [andreLumor](https://github.com/andreLumor)
 * Hugo Oliveira - Desenvolvedor, Revisão e Controle de Memes - [HugoTHO](https://github.com/HugoTHO)
 * Paulo Lopes - Desenvolvedor, Revisão e Meme maker - [lopespaulo](https://github.com/lopespaulo)
-* Tyronne Damasceno - Análise de Datasets, Pergunteiro e Pitch Lord - [tyronedamasceno](https://github.com/tyronedamasceno)
+* Tyronne Damasceno - Análise de Datasets, Pergunteiro e PitchLord - [tyronedamasceno](https://github.com/tyronedamasceno)
